@@ -28,7 +28,7 @@ You will need LLVM 3.0 or later in order to build PNChart.
 
 1. Add a pod entry for PNChart to your Podfile `pod 'PNChart'`
 2. Install the pod(s) by running `pod install`.
-3. Include PNChart wherever you need it with `#import "PNChart.h"`.
+3. Include PNChart wherever you need it with `#import <PNChart.h>`.
 
 
 ### Copy the PNChart folder to your project
